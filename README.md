@@ -35,3 +35,8 @@ Project ini sangat cocok sebagai referensi latihan dasar pemrograman C++ bagi pe
 Pastikan komputer Anda sudah terinstall compiler C++ (seperti g++). Anda bisa mengeceknya dengan perintah:
 ```bash
 g++ --version
+
+---
+### Tampilan Program
+![Screenshot Program](hasil_program.jpg)
+
