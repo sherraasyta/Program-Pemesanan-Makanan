@@ -11,6 +11,11 @@ Project ini sangat cocok sebagai referensi latihan dasar pemrograman C++ bagi pe
 
 ---
 
+### Tampilan Program
+![Screenshot Program](hasil_program.jpg)
+
+---
+
 ## Fitur Utama
 * **Input Data Pengguna:** Mencatat identitas pemesan (Nama dan Prodi).
 * **Pilihan Menu Makanan:**
@@ -32,11 +37,10 @@ Project ini sangat cocok sebagai referensi latihan dasar pemrograman C++ bagi pe
 ---
 
 ## Prasyarat Instalasi
-Pastikan komputer Anda sudah terinstall compiler C++ (seperti g++). Anda bisa mengeceknya dengan perintah:
+Pastikan komputer Anda sudah terinstall compiler C++ (seperti g++).
+Anda bisa mengeceknya dengan perintah:
 ```bash
 g++ --version
 
----
-### Tampilan Program
-![Screenshot Program](hasil_program.jpg)
+
 
