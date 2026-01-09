@@ -1,4 +1,4 @@
-# Pemesanan Makanan Sederhana C++
+# Program Pemesanan Makanan Menggunakan Bahasa C++
 
 ## Deskripsi
 Project ini merupakan program **pemesanan makanan sederhana berbasis C++** yang berjalan di terminal/console.  
